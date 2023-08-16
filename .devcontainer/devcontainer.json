@@ -1,5 +1,7 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/ruby",
+  "build": {
+     "dockerfile": "Dockerfile"
+  },
   "features": {
   }
 }

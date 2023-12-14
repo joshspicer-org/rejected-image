@@ -3,5 +3,6 @@
      "dockerfile": "Dockerfile"
   },
   "features": {
-  }
+  },
+  "initializeCommand": "docker info && docker-compose version"
 }
